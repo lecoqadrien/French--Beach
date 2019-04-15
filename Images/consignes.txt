@@ -1,0 +1,58 @@
+Bonjour à toutes et à tous,
+
+Votre but durant ce partiel est d'intégrer le mieux possible les wireframes qui
+vous sont présentés.
+
+Ces derniers décrivent la structure de la page attendue mais contiennent peu de
+détails. Tout ce qui n'est pas précisé est laissé à votre appréciation.
+
+Les images et typographies à utiliser sont fournies dans ce dossier.
+
+La compabilité navigateurs est exeptionnellement exclue des problématiques
+compte tenu du temps imparti.
+
+Instructions pour débuter
+=========================
+
+Clonez ou téléchargez le projet de base à cette adresse :
+https://github.com/bcalou/parcel-boilerplate
+
+Suivez les instructions du repository pour lancer votre serveur local : rien de
+différent par rapport à nos habitudes.
+
+En cas de difficulté, il vous est possible de réaliser le projet sans utiliser
+le repository de base, mais vous ne pourrez plus prétendre à la totalité des
+points.
+
+Intégrez !
+
+Lorsque vous avez terminé
+=========================
+
+Réunissez vos sources dans un fichier .zip. N'incluez pas :
+- le dossier node_modules/
+- le dossier dist/
+
+Déposez le dossier sur l'intranet.
+
+Quelques conseils
+=================
+
+Le but du partiel est d'évaluer la qualité globale de vos intégrations. Vous
+devez pour cela utiliser au maximum les connaissances que nous avons développées
+dans le cours, et plus particulièrement dans les 8 premiers chapitres
+(https://htmlcss.netlify.com/).
+
+Il n'y a pas de solution pré-déterminée. Seule compte la qualité de votre rendu
+et de votre code (bonnes pratiques et écriture propre).
+
+Ces 3 heures passeront vite : organisez-vous pour ne pas passer trop de temps
+sur de petits détails au risque de négliger des parties entières.
+
+La simplicité relative des wireframes autorise de nombreux perfectionnements :
+vous pouvez "terminer" dans le temps imparti, mais votre intégration et votre
+code seront toujours améliorables. Utilisez tout le temps à votre disposition
+pour peaufiner votre travail.
+
+Je vous souhaite bonne chance !
+Bastien
